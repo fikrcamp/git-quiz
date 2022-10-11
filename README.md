@@ -4,7 +4,7 @@
 
 1. What is a repository?
 
-<!-- Write your answer under here -->
+" a place or folder that you can store your files "
 
 2. What is the Git command to make a copy of a repo to your laptop?
 
