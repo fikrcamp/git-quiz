@@ -1,0 +1,8 @@
+1. repositor is the folder inside my github account where i store specific project files that can i push and clone from it
+2. git clone comand is the comand that copy the code fro github to your laptop
+3. git push comand is the comand that sends your code to github
+4. it means to put coment in here 
+5. git comit -m "" is the comand of  commit
+6. git add . is the code for puting my files in to staging area
+7. oringin stores the original link of the repositor when cloning
+
