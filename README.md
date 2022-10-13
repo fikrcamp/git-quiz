@@ -42,4 +42,4 @@ git add (.)for all or the name of the file
 
 <!-- Write your answer here -->
 
-it means the link of github to which you want to store your files.
+it means the link of github repo to which you want to store your files.
