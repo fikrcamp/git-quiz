@@ -14,7 +14,7 @@
 
 3. What is the Git command to send your code to Github?
 
-<!-- git push origin main-->
+<!-- git push -->
 
 4. What does the -m in a Git commit command mean or do?
 
