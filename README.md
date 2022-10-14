@@ -30,4 +30,4 @@
 
 7. What does origin stand for when pushing you code?
 
-< origin stands for " the clone" the link we cloned from repository
+< origin stands for " the clone" the link we cloned from repository 
