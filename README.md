@@ -10,7 +10,7 @@ A repository is the main staging area where all your projects are stored
 
 git clone  
 
-1. What is the Git command to send your code to Github?
+3. What is the Git command to send your code to Github?
 
 git push origin main  
 
