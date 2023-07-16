@@ -18,7 +18,7 @@
 
 4. What does the -m in a Git commit command mean or do?
 
-It stands for message
+It stands for message m
 
 5. What is the Git command for making a commit?
 
